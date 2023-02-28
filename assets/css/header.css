@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+    background-color: rgb(2, 249, 23);
+}
+#nav {
+    background-color: black;
+    text-align: center;
+    font-family: cursive;
+}
+
+a:hover{
+    background-color: brown;
+}
+    
+
+li {
+    margin-left: 20px;
+
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+#li_sla {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    margin: 10px;
+}

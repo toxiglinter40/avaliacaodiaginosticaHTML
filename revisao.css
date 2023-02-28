@@ -1,0 +1,55 @@
+main{
+    background-color: black;
+    width: 70%;
+    height: 460px;
+    margin-bottom: 15px;
+}
+article{
+    background-color: black;
+    height: 250px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+}
+#section_1{
+    background-color: red;
+    height: 110px;
+    width: auto;
+    display: flex;
+}
+aside{
+    background-color: gray;
+    width: 30%;
+    height: 460px;
+}
+body{
+    padding: 7px;
+    background-color: red;
+    color: white;
+}
+div{
+    display: flex;
+    margin-bottom: -5px;
+}
+#section_2{
+    background-color: black;
+}
+#sectino_3{
+    background-color: gray;
+    height: 180px;
+}
+#sectino_4{
+    background-color: gray;
+    height: 180px;
+}
+#article_2{
+    height: 300px;
+    width: 100%;
+    display: flex;
+}
+#section_5{
+    background-color: gray;
+}
+section{
+    width: 33.33%;
+}
